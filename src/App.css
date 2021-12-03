@@ -36,3 +36,63 @@
     transform: rotate(360deg);
   }
 }
+
+.video {
+  color: white;
+  background-color: #282c34;
+  border: 2px solid rgb(141, 175, 17);
+}
+
+.social {
+  color: rgb(39, 38, 38);
+  background-color: #61dafb;
+  border: 2px solid rgb(0, 0, 0);
+}
+
+.chat {
+  color: rgb(39, 38, 38);
+  background-color: #61dafb;
+  border: 2px solid rgb(205, 250, 3);
+}
+
+.socialFeed {
+  color: rgb(39, 38, 38);
+  background-color: #61dafb;
+  border: 2px solid rgb(205, 250, 3);
+}
+
+.tools {
+  color:crimson;
+  background-color: darkkhaki;
+  border: 2px solid rgb(255, 0, 106);
+}
+
+.header {
+  color:darkslategrey;
+  background-color: honeydew;
+  border: 2px solid blue;
+}
+
+.controls {
+  color: blue;
+  background-color: yellow;
+  border: 2px solid black;
+}
+
+.conferencing {
+  color: blue;
+  background-color: yellow;
+  border: 2px solid black;
+}
+
+.calendar {
+  color: blue;
+  background-color: yellow;
+  border: 2px solid black;
+}
+
+.footer {
+  color:darkslategrey;
+  background-color: honeydew;
+  border: 2px solid blue;
+}
