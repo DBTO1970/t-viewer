@@ -1,10 +1,15 @@
 import React from "react";
+import { Button, Card, CardHeader, CardContent, Typography, CardActions } from "@mui/material";
 
 function UserPanel () {
 
     return (
         <div className="user">
-            User Preferences and login/out go Here
+        <Card>
+
+        <Button>Log In</Button>
+        </Card>
+            
         </div>
     )
 }

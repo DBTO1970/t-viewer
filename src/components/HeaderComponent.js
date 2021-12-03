@@ -1,10 +1,11 @@
 import React from "react";
 
+
 function HeaderPanel () {
 
     return (
         <div className='header'>
-            <h1>T-Viewr</h1>
+            <h1>T-Viewer</h1>
         </div>
     )
 }
